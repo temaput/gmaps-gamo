@@ -1,0 +1,1436 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQX4MAicNREARyMy1rIY6NvI",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ2WzOXA9zREARLcHn4c5SBjk",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.7273969,
+               "lng" : 44.8024312
+            },
+            "southwest" : {
+               "lat" : 41.70403940000001,
+               "lng" : 44.735654
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "9.2 km",
+                  "value" : 9186
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1000
+               },
+               "end_address" : "117 Shalva Nutsubidze St, T'bilisi, Georgia",
+               "end_location" : {
+                  "lat" : 41.72723209999999,
+                  "lng" : 44.735654
+               },
+               "start_address" : "86 Mikheili Tsinamdzghvrishvili St, T'bilisi, Georgia",
+               "start_location" : {
+                  "lat" : 41.7094968,
+                  "lng" : 44.8006397
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 317
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 41.706978,
+                        "lng" : 44.8024312
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eMikheili Tsinamdzghvrishvili St\u003c/b\u003e toward \u003cb\u003eKita Abashidze Street\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kkq}F_cmpG`@WvBuA~E}C|ByA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7094968,
+                        "lng" : 44.8006397
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 230
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 41.7059503,
+                        "lng" : 44.8000303
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKiev Street\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s{p}FenmpG^z@f@zAdCfI"
+                     },
+                     "start_location" : {
+                        "lat" : 41.706978,
+                        "lng" : 44.8024312
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 41.7055042,
+                        "lng" : 44.8004061
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDavit Aghmashenebeli Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eup}Fe_mpGxAkA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7059503,
+                        "lng" : 44.8000303
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 166
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 41.7044533,
+                        "lng" : 44.79899200000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTchorokhi Street\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "krp}FqampGpEzG"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7055042,
+                        "lng" : 44.8004061
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "12 m",
+                        "value" : 12
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 41.7045164,
+                        "lng" : 44.798873
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDimitri Uznadze St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ykp}FuxlpGMV"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7044533,
+                        "lng" : 44.79899200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 41.70403940000001,
+                        "lng" : 44.7985581
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eDimitri Uznadze St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "glp}F}wlpG~A|@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7045164,
+                        "lng" : 44.798873
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1820
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 177
+                     },
+                     "end_location" : {
+                        "lat" : 41.7174949,
+                        "lng" : 44.7877327
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eNikoloz Baratashvili Named Left Bank\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gip}F_vlpGMd@c@pASl@{@`CK^u@zBc@rASl@Od@S\\ST{@p@}@n@sAfAe@^m@d@q@`@i@f@GFsA~@_@V}@p@MJMNw@|@CBUZm@z@uAhBGJk@n@OPQL}@d@aAd@cBv@yB~@_A\\_@Hk@DO@q@Bk@B{@@cAFc@Bc@Fa@Dc@JkAV[HmA\\YJo@Ze@VeBfA_BbAu@f@GD}@n@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.70403940000001,
+                        "lng" : 44.7985581
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 241
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 41.7181488,
+                        "lng" : 44.7904298
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i}r}FirjpGBY@Wc@{BAIIa@Ki@e@aBACQs@Sq@AMAS@S@U"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7174949,
+                        "lng" : 44.7877327
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 220
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 41.717279,
+                        "lng" : 44.7880486
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eQueen Tamar Ave\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-right",
+                     "polyline" : {
+                        "points" : "mas}FeckpGH\\r@nCf@pBTz@Nf@`@vA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7181488,
+                        "lng" : 44.7904298
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 207
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 41.71626879999999,
+                        "lng" : 44.7859778
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eQueen Tamar Bridge\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_|r}FitjpGb@rA`@rAHVXz@Vz@fAdB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.717279,
+                        "lng" : 44.7880486
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 270
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 41.7145307,
+                        "lng" : 44.7837228
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eQueen Tamar Ave\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uur}FkgjpGl@|@TTTPnAlBr@bA|BjD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.71626879999999,
+                        "lng" : 44.7859778
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 330
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 41.7123089,
+                        "lng" : 44.78125499999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eHeroes Square\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "yjr}FgyipGj@`Ad@h@b@h@NVJNJPDJDLDNH`@HRBHB@BDBB@BHD@@FDH@d@LFBB@JBHFDBDBRLVTj@h@Z\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7145307,
+                        "lng" : 44.7837228
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.1 km",
+                        "value" : 3073
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 181
+                     },
+                     "end_location" : {
+                        "lat" : 41.71563829999999,
+                        "lng" : 44.7461365
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eChabua Amirejibi Hwy\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "}|q}FyiipGVb@FPFN@L@R?ZCd@Eh@ADARATAJ?X@ZBn@B\\@NB^@NB\\Dl@DlA@fAAdAGfAIfAM`A?BSbAS~@[vAMj@i@dC[vAMl@k@bCW`AU`ASx@CHQ`AGZGd@E`@Cd@Ab@Ab@?h@?XFjAFbAFrA?bAAz@APEp@MxB[hDEj@A@KtAMtACPAJUtBE^Gl@SxAIn@Kj@UdAWz@Ul@c@z@_@l@KRw@`Aq@z@OTU^IR_@bASv@AB?@CPCRGn@Cj@A\\?T@hA?@BlA?P?PAt@AfA?JCrA?J?rA?`A?`A?JBx@Dd@B`@Lx@Rz@\\hALf@H\\Lz@@JFp@B`@@z@?h@C`@Gt@?FGh@S`AObAADIv@ERCl@?J?l@?@Dz@Db@B`@H~@BLLlADj@Fp@PjCF|@B`@JtA?FDn@H~AA^E\\A@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7123089,
+                        "lng" : 44.78125499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 966
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 113
+                     },
+                     "end_location" : {
+                        "lat" : 41.7241935,
+                        "lng" : 44.745586
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to merge onto \u003cb\u003eMikheil Tamarashvili St\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "wqr}FknbpGMRe@`@U@KBy@Eo@EyAIi@@A?]TwBQoDQi@Ec@Ac@Ca@AUAQ?I?m@CaACe@@q@?O?U?iBN{AJiALi@FkBTOBMBK@}CV"
+                     },
+                     "start_location" : {
+                        "lat" : 41.71563829999999,
+                        "lng" : 44.7461365
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 142
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 41.7254617,
+                        "lng" : 44.7453806
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eგიგო გაბაშვილის ქუჩა\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "egt}F}jbpGsCViBP"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7241935,
+                        "lng" : 44.745586
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 625
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 41.72473309999999,
+                        "lng" : 44.737916
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVazha Pshavela Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cot}FsibpGB~@L`C@Z@FNtDVjGF~AHfBNbCPnCDdA@P?HBh@RbE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7254617,
+                        "lng" : 44.7453806
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 41.7273969,
+                        "lng" : 44.7374525
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVazha Pshavela III Turn\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qjt}F_{`pGiALyC\\oCVaDX"
+                     },
+                     "start_location" : {
+                        "lat" : 41.72473309999999,
+                        "lng" : 44.737916
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 41.72723209999999,
+                        "lng" : 44.735654
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eShalva Nutsubidze St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "g{t}Fax`pGHhBH~AJvC@D"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7273969,
+                        "lng" : 44.7374525
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kkq}F_cmpGvNeJ^z@f@zAdCfIxAkApEzGMV~A|@Md@w@~BgA`D}BbHS\\STyB`ByBfB_BfAq@n@sBvAkA|@eAlA}CdEs@z@a@^_CjA}EvB_Bf@{@F}EPgAJeAPgB`@gBh@uAr@eEjC}@l@}@n@BY@Wc@{BKk@eAcEU_A?g@@UH\\zA`GjBnG|AbFtBbDj@f@bCpDhDlFxAjB\\l@^rANTLJv@T`@P^TbA~@Z\\Vb@N`@B`@C`AGn@EnAJxBNzBFtCIlCWhCSfAgBhImBjIi@zBUjAO`AIfACjCNnCFvCClASjDc@vE_@hEw@|GUzAm@`Cy@hBk@`AiB|Be@t@i@vAUz@OvAEhA@~ABrBG|E?bFBdAHfA`@tBj@pBVxAH|@D|ACjAG|@[jBa@tCCx@?n@X`E^xDh@`IDv@F~BG^MRe@`@a@DiBKyAIi@@_@TwBQoDQmAGmBG_DEaA?_CNeDXuC\\gE`@}Fh@P`Ej@dNPfE`@rGJjCRbEiALiHt@aDXHhBTvF@D"
+         },
+         "summary" : "Chabua Amirejibi Hwy",
+         "warnings" : [],
+         "waypoint_order" : []
+      },
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.7311888,
+               "lng" : 44.8024312
+            },
+            "southwest" : {
+               "lat" : 41.70403940000001,
+               "lng" : 44.735654
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "8.4 km",
+                  "value" : 8357
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1158
+               },
+               "end_address" : "117 Shalva Nutsubidze St, T'bilisi, Georgia",
+               "end_location" : {
+                  "lat" : 41.72723209999999,
+                  "lng" : 44.735654
+               },
+               "start_address" : "86 Mikheili Tsinamdzghvrishvili St, T'bilisi, Georgia",
+               "start_location" : {
+                  "lat" : 41.7094968,
+                  "lng" : 44.8006397
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 317
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 41.706978,
+                        "lng" : 44.8024312
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eMikheili Tsinamdzghvrishvili St\u003c/b\u003e toward \u003cb\u003eKita Abashidze Street\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kkq}F_cmpG`@WvBuA~E}C|ByA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7094968,
+                        "lng" : 44.8006397
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 230
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 41.7059503,
+                        "lng" : 44.8000303
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKiev Street\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s{p}FenmpG^z@f@zAdCfI"
+                     },
+                     "start_location" : {
+                        "lat" : 41.706978,
+                        "lng" : 44.8024312
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 41.7055042,
+                        "lng" : 44.8004061
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDavit Aghmashenebeli Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eup}Fe_mpGxAkA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7059503,
+                        "lng" : 44.8000303
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 166
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 41.7044533,
+                        "lng" : 44.79899200000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTchorokhi Street\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "krp}FqampGpEzG"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7055042,
+                        "lng" : 44.8004061
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "12 m",
+                        "value" : 12
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 41.7045164,
+                        "lng" : 44.798873
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDimitri Uznadze St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ykp}FuxlpGMV"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7044533,
+                        "lng" : 44.79899200000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 41.70403940000001,
+                        "lng" : 44.7985581
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eDimitri Uznadze St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "glp}F}wlpG~A|@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7045164,
+                        "lng" : 44.798873
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.9 km",
+                        "value" : 2909
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 280
+                     },
+                     "end_location" : {
+                        "lat" : 41.7263672,
+                        "lng" : 44.7823015
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eNikoloz Baratashvili Named Left Bank\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gip}F_vlpGMd@c@pASl@{@`CK^u@zBc@rASl@Od@S\\ST{@p@}@n@sAfAe@^m@d@q@`@i@f@GFsA~@_@V}@p@MJMNw@|@CBUZm@z@uAhBGJk@n@OPQL}@d@aAd@cBv@yB~@_A\\_@Hk@DO@q@Bk@B{@@cAFc@Bc@Fa@Dc@JkAV[HmA\\YJo@Ze@VeBfA_BbAu@f@GD}@n@aB|@q@`@kBnAkAt@eBfAk@^_CxAkAp@cCtAcAp@}@n@KH{Az@q@Vs@NaBZaARC@SDq@XC?u@Zk@Vo@\\_B|@a@TkBdA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.70403940000001,
+                        "lng" : 44.7985581
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 256
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 41.7259044,
+                        "lng" : 44.78311619999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "ytt}FkpipGUAC?EACCECCECCEIAwA?o@?o@?Y@O?E@GDSPI@AJAL?J@FBF@FFFDDHHZb@pA"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7263672,
+                        "lng" : 44.7823015
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 342
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 41.7251588,
+                        "lng" : 44.7792938
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVakhushti Bagrationi Bridge\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{qt}FouipGz@nDXlABHLj@^tALh@LXBDBFBF?D?D?N?@Gr@QzA?BC|@?@?H@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7259044,
+                        "lng" : 44.78311619999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 244
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 41.7253256,
+                        "lng" : 44.7764647
+                     },
+                     "html_instructions" : "\u003cb\u003eVakhushti Bagrationi Bridge\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eGiorgi Saakadze Descent\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gmt}Fq}hpGi@pF_@zDRv@BP@JLp@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7251588,
+                        "lng" : 44.7792938
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "61 m",
+                        "value" : 61
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 41.7251316,
+                        "lng" : 44.7757728
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "int}F{khpG^nBFX"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7253256,
+                        "lng" : 44.7764647
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 m",
+                        "value" : 59
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.7253621,
+                        "lng" : 44.7751392
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGiorgi Saakadze Square\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "amt}FqghpGOd@Ur@EPAP"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7251316,
+                        "lng" : 44.7757728
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 814
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : 41.7311888,
+                        "lng" : 44.76920399999999
+                     },
+                     "html_instructions" : "\u003cb\u003eGiorgi Saakadze Square\u003c/b\u003e turns \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eZhiuli Shartava St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ont}FschpG]ZWRQPy@v@MLGHONuAtAs@r@aBdBy@x@cBfBw@x@uAvA[\\]\\{@z@KLe@d@iAlAk@l@}@|@w@z@y@z@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7253621,
+                        "lng" : 44.7751392
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 872
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 194
+                     },
+                     "end_location" : {
+                        "lat" : 41.7301953,
+                        "lng" : 44.75877879999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSimon Kandelaki St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}ru}Fo~fpGF|A?JDrAFnBBh@?THlAXlFJnBNbDNbDDnAZxFZxFD`ALfEDb@?N?LBp@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7311888,
+                        "lng" : 44.76920399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.0 km",
+                        "value" : 1957
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 247
+                     },
+                     "end_location" : {
+                        "lat" : 41.72723209999999,
+                        "lng" : 44.735654
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eShalva Nutsubidze St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "wlu}Fk}dpGVlDBbAFpAD|@@XBn@@TJnB@H@T@X@TJjCBb@@b@HxBPfE?@HdBHxA@VFzAF~@@^JjBHhALlC?BTdENrCBh@JpC@HHfBDp@PhE@LDz@Fx@Jj@@DLv@Pz@b@hAHXRv@XhADNLp@DVHd@NdA@DPbD@^NfDF`AR~DDdAHhBH~AJvC@D"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7301953,
+                        "lng" : 44.75877879999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kkq}F_cmpGvNeJ^z@f@zAdCfIxAkApEzGMV~A|@Md@w@~BgA`D}BbHS\\STyB`ByBfB_BfAq@n@sBvAkA|@eAlA}CdEs@z@a@^_CjA}EvB_Bf@{@F}EPgAJeAPgB`@gBh@uAr@eEjC}@l@_DlBoInFkDxBoEfCaC`BgBdAq@Vs@NcDn@mA`@aBr@oCzAmCzAYAIEIIIMAgC@_BF[RKXARDNHLNHZb@pAz@nD\\vAl@`CZbAFLBL?TYtCC~@@f@iAlLVhAv@fEe@xAGb@aCxBe@f@sP`QwJbKy@z@F|AD~AT|FdAdTbAdSRhGZ~EJtCL|CPhDx@rS`ApRfA|TRvELtBl@dDl@bBl@`Cb@~BPjARbEp@nN`@fJ"
+         },
+         "summary" : "Nikoloz Baratashvili Named Left Bank",
+         "warnings" : [],
+         "waypoint_order" : []
+      },
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.7273969,
+               "lng" : 44.805395
+            },
+            "southwest" : {
+               "lat" : 41.7015322,
+               "lng" : 44.735654
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "10.1 km",
+                  "value" : 10091
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1050
+               },
+               "end_address" : "117 Shalva Nutsubidze St, T'bilisi, Georgia",
+               "end_location" : {
+                  "lat" : 41.72723209999999,
+                  "lng" : 44.735654
+               },
+               "start_address" : "86 Mikheili Tsinamdzghvrishvili St, T'bilisi, Georgia",
+               "start_location" : {
+                  "lat" : 41.7094968,
+                  "lng" : 44.8006397
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 786
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 147
+                     },
+                     "end_location" : {
+                        "lat" : 41.7033886,
+                        "lng" : 44.805395
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eMikheili Tsinamdzghvrishvili St\u003c/b\u003e toward \u003cb\u003eKita Abashidze Street\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kkq}F_cmpG`@WvBuA~E}C|ByAvBeBlByA~AqA~AmAROjBsAfDmC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7094968,
+                        "lng" : 44.8006397
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 m",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 41.7027888,
+                        "lng" : 44.8047046
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMose Gogiberidze St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eep}Fw`npGnBfBFH?X"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7033886,
+                        "lng" : 44.805395
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "73 m",
+                        "value" : 73
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 41.7024226,
+                        "lng" : 44.8044342
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eZaarbriuken Square\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "map}Fk|mpGA??@A?A@?@A@?@A@?@?@A??@?@?@?@?@?@?@@@?@?@?@@??@@@?@@??@@??@@?@??@@?@?@?@?@?@?@A@??A@??A@??A@??A?A@??A?A@A?AJHD@ZJ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7027888,
+                        "lng" : 44.8047046
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 112
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 41.7016153,
+                        "lng" : 44.8036247
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eSaarbruecken Bridge\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "c_p}FuzmpGLJLLbCfC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7024226,
+                        "lng" : 44.8044342
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 322
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 41.7022593,
+                        "lng" : 44.7999468
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "czo}FsumpGJ^BL?H@HCl@W|DGhAKbACNSnAOv@i@~AGNCPCF"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7016153,
+                        "lng" : 44.8036247
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1276
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 84
+                     },
+                     "end_location" : {
+                        "lat" : 41.7101378,
+                        "lng" : 44.7895423
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eZviad Gamsakhurdia Named Right Bank\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "c~o}Fu~lpGCBONQTm@~@S^Yz@_@|Bi@`DOx@O~@g@jBe@lAqAjDm@rA]l@_@d@]Zo@d@e@^MNa@`@o@d@[Nw@b@}B|A_@V[T_At@eAz@aA|@KJs@x@CBa@j@w@vAMR_A`A_@\\YRe@Tk@VMD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7022593,
+                        "lng" : 44.7999468
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 321
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 41.7121481,
+                        "lng" : 44.787097
+                     },
+                     "html_instructions" : "Take the exit on the \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "koq}Fs}jpGADA@ABA@A@[Rw@^aBv@aAd@G@OJKNCBABCDADCFGX_@tAUz@]~A"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7101378,
+                        "lng" : 44.7895423
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 149
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 41.7126948,
+                        "lng" : 44.7854618
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue toward \u003cb\u003eHeroes Square\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "}{q}FknjpGk@nC_AvD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7121481,
+                        "lng" : 44.787097
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 511
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 41.7144286,
+                        "lng" : 44.7798175
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eHeroes Square\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "i_r}FcdjpGId@YzBQfAc@fCEXO`AKl@Kj@Kl@Kl@ADAJ?@ADERKp@Ib@Qz@WfA]lAK\\KXMVOT[f@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7126948,
+                        "lng" : 44.7854618
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 399
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 41.7178057,
+                        "lng" : 44.7787673
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMerab Kostava St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ejr}F{`ipGGFOLMLQJuAr@[NkAp@kAj@SHI?O@W@_@A]CEAeAOMGSCM@UBQ@y@L"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7144286,
+                        "lng" : 44.7798175
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 41.7177087,
+                        "lng" : 44.7783927
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003ePekini Ave\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "i_s}FizhpGSXGFEFABAF?@?D?D@BDD@@B@D?PER?"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7178057,
+                        "lng" : 44.7787673
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 m",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 41.7170821,
+                        "lng" : 44.7788248
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePekini Ave\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "u~r}F}whpGt@o@NIv@["
+                     },
+                     "start_location" : {
+                        "lat" : 41.7177087,
+                        "lng" : 44.7783927
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 317
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 41.7144286,
+                        "lng" : 44.7798175
+                     },
+                     "html_instructions" : "\u003cb\u003ePekini Ave\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eMerab Kostava St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wzr}FszhpGdAND@\\B^@VANAH?RIjAk@jAq@ZOtAs@PKLMNMFG"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7170821,
+                        "lng" : 44.7788248
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "40 m",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 41.7140983,
+                        "lng" : 44.7799784
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHeroes Square\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "ejr}F{`ipGTALEJEPQ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7144286,
+                        "lng" : 44.7798175
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 287
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 41.7123089,
+                        "lng" : 44.78125499999999
+                     },
+                     "html_instructions" : "Take the ramp on the \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHeroes Square\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "chr}F{aipGd@}@X_A`@kA\\iAHQFOBEDGHIHGJEHAFAF?T?PF^Pj@h@Z\\"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7140983,
+                        "lng" : 44.7799784
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.1 km",
+                        "value" : 3073
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 181
+                     },
+                     "end_location" : {
+                        "lat" : 41.71563829999999,
+                        "lng" : 44.7461365
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eChabua Amirejibi Hwy\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "}|q}FyiipGVb@FPFN@L@R?ZCd@Eh@ADARATAJ?X@ZBn@B\\@NB^@NB\\Dl@DlA@fAAdAGfAIfAM`A?BSbAS~@[vAMj@i@dC[vAMl@k@bCW`AU`ASx@CHQ`AGZGd@E`@Cd@Ab@Ab@?h@?XFjAFbAFrA?bAAz@APEp@MxB[hDEj@A@KtAMtACPAJUtBE^Gl@SxAIn@Kj@UdAWz@Ul@c@z@_@l@KRw@`Aq@z@OTU^IR_@bASv@AB?@CPCRGn@Cj@A\\?T@hA?@BlA?P?PAt@AfA?JCrA?J?rA?`A?`A?JBx@Dd@B`@Lx@Rz@\\hALf@H\\Lz@@JFp@B`@@z@?h@C`@Gt@?FGh@S`AObAADIv@ERCl@?J?l@?@Dz@Db@B`@H~@BLLlADj@Fp@PjCF|@B`@JtA?FDn@H~AA^E\\A@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7123089,
+                        "lng" : 44.78125499999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 966
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 113
+                     },
+                     "end_location" : {
+                        "lat" : 41.7241935,
+                        "lng" : 44.745586
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to merge onto \u003cb\u003eMikheil Tamarashvili St\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "wqr}FknbpGMRe@`@U@KBy@Eo@EyAIi@@A?]TwBQoDQi@Ec@Ac@Ca@AUAQ?I?m@CaACe@@q@?O?U?iBN{AJiALi@FkBTOBMBK@}CV"
+                     },
+                     "start_location" : {
+                        "lat" : 41.71563829999999,
+                        "lng" : 44.7461365
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 142
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 41.7254617,
+                        "lng" : 44.7453806
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eგიგო გაბაშვილის ქუჩა\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "egt}F}jbpGsCViBP"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7241935,
+                        "lng" : 44.745586
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 625
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 41.72473309999999,
+                        "lng" : 44.737916
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVazha Pshavela Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cot}FsibpGB~@L`C@Z@FNtDVjGF~AHfBNbCPnCDdA@P?HBh@RbE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7254617,
+                        "lng" : 44.7453806
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 299
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 41.7273969,
+                        "lng" : 44.7374525
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVazha Pshavela III Turn\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qjt}F_{`pGiALyC\\oCVaDX"
+                     },
+                     "start_location" : {
+                        "lat" : 41.72473309999999,
+                        "lng" : 44.737916
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 41.72723209999999,
+                        "lng" : 44.735654
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eShalva Nutsubidze St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "g{t}Fax`pGHhBH~AJvC@D"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7273969,
+                        "lng" : 44.7374525
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kkq}F_cmpGvNeJdF_E~D_D~BcBfDmCnBfBFH?XA?A@ABCF?RHLJ@JIBG?APJZJLJpCtCNl@@R[jFSlCW~AOv@i@~AK`@GJa@d@aA~AYz@_@|By@zEO~@g@jBwBxFkA`C_@d@]ZuAdAo@p@o@d@[Nw@b@}B|A{@l@eCpBmAhAw@|@yAbCMR_A`Ay@p@qAl@MDADCDCBsAr@{DjBU\\m@|Bs@zCk@nC_AvDc@`Du@nEm@tDo@zD[~Au@tCWv@]l@c@n@]ZoE`C_Bt@I?g@B}@EkAQa@KoBT[`@GJATLLVER?t@o@fAe@jAP|@Df@CH?~Au@nEaC\\[FGTAXKPQd@}@z@kCf@{AZg@TMPC\\?p@XfAfA^t@H\\@n@MhBC`@@t@L|BDl@JzB?lCQnCMdAg@bCoB`JgBtHWbAY|AMfAEhAAlAFdBNvCA~BU|Do@lHi@hFk@vEa@pBm@hBcAhBcAtAaApA_@r@_@bASv@ADGd@KzA?~BB~AAfAErD?bFH~APzARz@\\hAVdANfAJrA@dBKvAGp@c@dCK|@I`ADvBVrCRxBX|DV|DNnCG|@OTe@`@U@eAAiCOk@@]TwBQyEWgAEsACoBGwA@e@?eEZoFn@kIt@iBPB~@N|Cp@hPp@`MXhGcFj@qHp@`@fJ"
+         },
+         "summary" : "Zviad Gamsakhurdia Named Right Bank and Chabua Amirejibi Hwy",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
